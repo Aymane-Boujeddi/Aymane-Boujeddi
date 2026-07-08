@@ -1,13 +1,13 @@
 # Hi there, I'm Aymane 👋
 
-### 👨‍💻 Full Stack Developer (Java/Spring & PHP/Laravel)
+### 👨‍💻 Full Stack Developer & Software Engineer
 
-I am a passionate software developer currently finishing my training at **YouCode (UM6P)**. I don't just write code; I design systems. My focus is on building scalable architectures, writing clean code, and solving complex problems with robust backend logic.
+I am a passionate software engineer holding a Bachelor's in Software Engineering from Zaporizhzhia National University, complemented by specialized training at **YouCode (UM6P)**. I don't just write code; I design systems. My focus is on building scalable architectures, enforcing clean code standards, and solving complex problems with robust backend logic.
 
-- 🔭 I’m currently working on **Full Stack Web Applications (Spring Boot & Angular)**
-- 🌱 I’m currently learning **Cloud Architecture (AWS) & Advanced Microservices**
-- 👯 I’m looking to collaborate on **Open Source Java projects**
-- ⚡ Fun fact: I always start my projects with a UML diagram before writing a single line of code.
+- 🔭 I’m currently working on **Enterprise-grade Full Stack Applications (Java 17, Spring Boot, & Angular)**
+- 🌱 I’m currently preparing for my **Java SE 17 Oracle Certified Professional** exam and exploring **Agentic AI integrations (OpenCode, Cursor)** to optimize development workflows
+- 👯 I’m looking to collaborate on **Open Source Java projects and CI/CD automated pipelines**
+- ⚡ Fun fact: I always start my projects with a UML diagram and clear system architecture before writing a single line of code.
 
 ---
 
@@ -20,8 +20,9 @@ I am a passionate software developer currently finishing my training at **YouCod
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Database & DevOps**
@@ -29,6 +30,8 @@ I am a passionate software developer currently finishing my training at **YouCod
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 ---
 
