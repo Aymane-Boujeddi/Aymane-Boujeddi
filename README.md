@@ -34,10 +34,9 @@ I am a software engineer with a Bachelor's in Software Engineering, specializing
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymane-Boujeddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2671E5&icon_color=2671E5" alt="Aymane's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Boujeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2671E5" alt="Top Languages" width="48%" />
-</p>
+![Aymane's Stats](https://github-readme-stats.vercel.app/api?username=Aymane-Boujeddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2671E5&icon_color=2671E5)
+<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Boujeddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2671E5)
 
 ---
 
